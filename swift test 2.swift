@@ -1,12 +1,6 @@
-//oshe ravanz
+//oshe ravanz contribution
 //oshada97
-//mr.basnayake
-//Oshada Basnayake
-//ceberus labs
-//oshe ceylon
 
-//further contribution for the world will be shown with above names
+var osheData = 34  //calling  "osheData" variable with "var" datatype.
 
-var osheData = 34  //calling variable
-
-print(osheData) //print variable value
+print(osheData) //print "osheData" variable value of 34 
